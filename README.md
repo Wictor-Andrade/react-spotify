@@ -1,9 +1,7 @@
 <body>
     <h1>Building Spotify Front-end with React, Tailwind CSS</h1>
-
     <h2>Overview</h2>
     <p>In this project, we aim to recreate the front-end interface of Spotify using React and Tailwind CSS. Spotify is a popular music streaming service, and by building its front-end, we'll gain insights into building responsive and interactive web applications with modern tools and libraries.</p>
-
     <h2>Project Structure</h2>
     <h3>Components</h3>
     <ul>
@@ -15,7 +13,6 @@
         <li>Album: The component to display detailed information about a specific album.</li>
         <li>Playlist: The component to display detailed information about a specific playlist.</li>
     </ul>
-
     <h3>Pages</h3>
     <ul>
         <li>Home Page: Displays recommended playlists and albums.</li>
@@ -23,14 +20,12 @@
         <li>Album Page: Shows detailed information about a specific album.</li>
         <li>Playlist Page: Shows detailed information about a specific playlist.</li>
     </ul>
-
     <h2>Technologies Used</h2>
     <ul>
         <li>React: A JavaScript library for building user interfaces.</li>
         <li>Tailwind CSS: A utility-first CSS framework for quickly building custom designs.</li>
         <li>React Router: A routing library for React to handle navigation within the application.</li>
     </ul>
-
     <h2>Getting Started</h2>
     <ol>
         <li>Clone the repository.</li>
@@ -38,6 +33,5 @@
         <li>Run the development server using <code>npm start</code>.</li>
         <li>Open the application in your browser.</li>
     </ol>
-
     <p>Feel free to contribute by adding new features or improving existing ones. Happy coding!</p>
 </body>
