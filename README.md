@@ -37,5 +37,5 @@
         <li>Run the development server using <code>pnpm run dev</code>.</li>
         <li>Open the application in your browser.</li>
     </ol>
-    <a src='https://wictor-andrade-spotify.duckdns.org/'>Or click here to see</a>
+    <h2>Or Acess https://wictor-andrade-spotify.duckdns.org/ to see.</h2>
 </body>
