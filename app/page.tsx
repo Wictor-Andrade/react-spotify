@@ -1,6 +1,8 @@
 import { Home as HomeIcon, Search, Library, MoveRight, Plus, List} from 'lucide-react'
+
 export default function Home() {
   return (
+    <>
     <div className="h-screen flex flex-col">
       <div className="flex flex-1 p-2 gap-2">
         <aside className="w-96">
@@ -55,5 +57,6 @@ export default function Home() {
         <h2>footer</h2>
       </footer>
     </div>
+    </>
   );
 }
