@@ -21,6 +21,8 @@
         <li>Playlist Page: Shows detailed information about a specific playlist.</li>
         <h4>Target:</h4>
         <img src='/Project-img/target.png'>
+        <h4>Actual:</h4>
+        <img src='/Project-img/actual.png'>
     </ul>
     <h2>Technologies Used</h2>
     <ul>
