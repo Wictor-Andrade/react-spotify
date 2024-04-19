@@ -19,6 +19,8 @@
         <li>Search Page: Allows users to search for songs, artists, and playlists.</li>
         <li>Album Page: Shows detailed information about a specific album.</li>
         <li>Playlist Page: Shows detailed information about a specific playlist.</li>
+        <h4>Target:</h4>
+        <img src='/Project-img/target.png'>
     </ul>
     <h2>Technologies Used</h2>
     <ul>
