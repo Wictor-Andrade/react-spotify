@@ -29,9 +29,8 @@
     <h2>Getting Started</h2>
     <ol>
         <li>Clone the repository.</li>
-        <li>Install dependencies using <code>npm install</code>.</li>
-        <li>Run the development server using <code>npm start</code>.</li>
+        <li>Install dependencies using <code>pnpm install</code>.</li>
+        <li>Run the development server using <code>pnpm run dev</code>.</li>
         <li>Open the application in your browser.</li>
     </ol>
-    <p>Feel free to contribute by adding new features or improving existing ones. Happy coding!</p>
 </body>
