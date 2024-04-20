@@ -1,6 +1,5 @@
 import { CircleCheck, Play, Repeat, Shuffle, SkipBack, SkipForward } from "lucide-react";
 import Image from 'next/image'
-import image from '../../public/joji/joji_in_tongues.jpg'
 
 export default function Player() {
     return (

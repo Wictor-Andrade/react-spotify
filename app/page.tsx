@@ -1,6 +1,7 @@
 import NavMenu from './components/navmenu'
 import Player from './components/player'
 
+
 export default function Home() {
   return (
     <>
