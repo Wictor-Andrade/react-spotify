@@ -30,7 +30,7 @@ export default function Player() {
                        </div>
                        <div className="max-w-11 w-11 max-h-11 h-11 flex items-center justify-center">
                             <button className="w-10 h-10 bg-white rounded-full text-black justify-center flex items-center hover:w-11 hover:h-11">
-                                <Play/>
+                                <Play fill="bg-black"/>
                             </button>
                        </div>
                         <div className="flex flex-col items-center">
